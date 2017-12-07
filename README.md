@@ -35,6 +35,11 @@
 
     Alt + Ctrl + E : extend alias definition
 
+    Crtl + R : Reverse search in history
+    Ctrl + S : Forward Search in history
+    Ctrl + G : escape from history searching mode
+
+
 ### man 
 
     enter or j or <down arrow> : Forward  one line
