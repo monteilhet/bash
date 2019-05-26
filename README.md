@@ -13,10 +13,11 @@
     Ctrl + C : abort
     Ctrl + Z : suspend
 
+    Ctrl + S : freeze
+    Ctrl + Q : unfreeze
 
     Ctrl + Shift + C : copy
     Ctrl + Shift + V : paste
-
 
     Ctrl + A : move to begining of line
     Ctrl + E : move to end of line
